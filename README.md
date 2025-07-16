@@ -1,7 +1,7 @@
 ❤️ **Heart Disease Prediction**
 📌 Overview
 This project aims to predict the likelihood of heart disease in patients using various health metrics. By applying data preprocessing techniques and machine learning algorithms, we can identify individuals at higher risk and potentially aid early medical intervention.
-
+***
 🧠 **Objective**
 Analyze patient health records
 
@@ -9,6 +9,7 @@ Build a classification model to predict heart disease presence
 
 Evaluate model performance using metrics like accuracy, precision, and recall
 
+***
 🧰 **Technologies Used**
 - Python
 
@@ -22,6 +23,7 @@ Evaluate model performance using metrics like accuracy, precision, and recall
 
 - MLPs, RandomForestClassifier, Train-Test Split, Accuracy Score
 
+***
 📊 **Dataset**
 The dataset includes various attributes such as:
 
@@ -43,23 +45,23 @@ The dataset includes various attributes such as:
 
 - ST depression
 
-
+***
 🔍**Key Steps**
-Data Exploration & Cleaning
+- Data Exploration & Cleaning
 
-Checked for missing values and data types
+- Checked for missing values and data types
 
-Explored correlations and outliers
+- Explored correlations and outliers
 
-Data Visualization
+- Data Visualization
 
-Visualized heart disease occurrence by age, gender, and cholesterol levels
+- Visualized heart disease occurrence by age, gender, and cholesterol levels
 
-Modeling
+- Modeling
 
-Applied Logistic Regression to classify risk
+- Applied Logistic Regression to classify risk
 
-Evaluated using confusion matrix and accuracy score
+- Evaluated using confusion matrix and accuracy score
 
 📈 Results
 The RandomForestClassifier model achieved an accuracy of around 89%
