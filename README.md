@@ -12,11 +12,11 @@ Build a classification model to predict heart disease presence
 
 Evaluate model performance using metrics like accuracy, precision, and recall
 
-![GitHub stars](https://img.shields.io/github/stars/MaheshMaht0/heart-disease-prediction)
-![GitHub forks](https://img.shields.io/github/forks/MaheshMaht0/heart-disease-prediction)
-![GitHub license](https://img.shields.io/github/license/MaheshMaht0/heart-disease-prediction)
-![Issues](https://img.shields.io/github/issues/MaheshMaht0/heart-disease-prediction)
-![Last Commit](https://img.shields.io/github/last-commit/MaheshMaht0/heart-disease-prediction)
+![GitHub stars](https://img.shields.io/github/stars/MaheshMahat0/heart-disease-prediction)
+![GitHub forks](https://img.shields.io/github/forks/MaheshMahat0/heart-disease-prediction)
+![GitHub license](https://img.shields.io/github/license/MaheshMahat0/heart-disease-prediction)
+![Issues](https://img.shields.io/github/issues/MaheshMahat0/heart-disease-prediction)
+![Last Commit](https://img.shields.io/github/last-commit/MaheshMahat0/heart-disease-prediction)
 
 ***
 🧰 **Technologies Used**
