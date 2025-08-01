@@ -17,6 +17,7 @@ Evaluate model performance using metrics like accuracy, precision, and recall
 ![GitHub license](https://img.shields.io/github/license/MaheshMahat0/heart-disease-prediction)
 ![Issues](https://img.shields.io/github/issues/MaheshMahat0/heart-disease-prediction)
 ![Last Commit](https://img.shields.io/github/last-commit/MaheshMahat0/heart-disease-prediction)
+![Top Language](https://img.shields.io/github/languages/top/MaheshMahat0/heart-disease-prediction)
 
 ***
 🧰 **Technologies Used**
