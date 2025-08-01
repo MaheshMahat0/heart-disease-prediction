@@ -3,6 +3,9 @@
 📌 **Overview**
 ---
 This project aims to predict the likelihood of heart disease in patients using various health metrics. By applying data preprocessing techniques and machine learning algorithms, we can identify individuals at higher risk and potentially aid early medical intervention.
+
+**Python** · **Scikit-learn** · **RandomForestClassifier** · **Accuracy Score** · **Pandas**
+
 ***
 🧠 **Objective**
 ---
